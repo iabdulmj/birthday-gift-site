@@ -1,0 +1,67 @@
+body {
+  text-align: center;
+  font-family: "Happy Monkey", cursive;
+  background: linear-gradient(skyblue, pink);
+  color: white;
+}
+#profile-img {
+  width: 150px;
+  border-radius: 50%;
+  border: 5px solid pink;
+}
+h1,
+h2,
+p {
+  text-shadow: 0px 0px 1px black;
+}
+#age {
+  background: pink;
+  padding: 6px 8px;
+  border-radius: 8%;
+  margin: 5px 0px 10px 0px;
+}
+#date {
+  background: pink;
+  padding: 5px;
+  border-radius: 8%;
+  margin-top: 0px;
+}
+#header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.gift-section {
+  margin-top: 50px;
+}
+.gift-hint {
+  margin-top: 0px;
+}
+.gift-title {
+  margin-bottom: 10px;
+}
+.gift-box {
+  margin: 0px auto;
+  width: 400px;
+  height: 400px;
+  background-image: url(/image/gift\ cover.jpg);
+  background-size: cover;
+  border: 5px solid white;
+  border-radius: 5%;
+}
+.gift-box:hover {
+  background-image: url(/image/image.jpeg);
+}
+.second-gift-title {
+  margin-top: 30px;
+}
+#gifft {
+  height: 200px;
+}
+#footer-text {
+  margin: 40px auto 20px;
+}
+#link {
+  color: white;
+  margin-bottom: 40px;
+}
