@@ -44,13 +44,13 @@ p {
   margin: 0px auto;
   width: 400px;
   height: 400px;
-  background-image: url(/image/gift\ cover.jpg);
+  background-image: url(image/gift\ cover.jpg);
   background-size: cover;
   border: 5px solid white;
   border-radius: 5%;
 }
 .gift-box:hover {
-  background-image: url(/image/image.jpeg);
+  background-image: url(image/image.jpeg);
 }
 .second-gift-title {
   margin-top: 30px;
